@@ -10,3 +10,4 @@ This document should ideally be updated everyday (08/25/2020)
 
 Log:
 Project creation, planning (08/25/2020)
+Interviews, oops, no project progression (maybe) (08/27/2020)
