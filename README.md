@@ -11,3 +11,4 @@ This document should ideally be updated everyday (08/25/2020)
 Log:
 Project creation, planning (08/25/2020)
 Interviews, oops, no project progression (maybe) (08/27/2020)
+Today's progress=0, thank you sudden interviews and parent computer troubles (08/28/2020)
