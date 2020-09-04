@@ -15,3 +15,4 @@ Today's progress=0, thank you sudden interviews and parent computer troubles (08
 Weekend distractions are real. ;_; (08/29/2020)
 Today is rest day! (08/30/2020)
 Got some progress, just not this project! (09/02/2020)
+Did you know Japanese is a hard language (09/03/2020)
