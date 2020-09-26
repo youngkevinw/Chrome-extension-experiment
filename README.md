@@ -10,4 +10,5 @@ You ever feel tired from applying to all these companies and the job postings al
 Log:
 Project creation, planning (08/25/2020)
 
-Project delayed until further notice, data loss (09/25/2020)
+Project delayed until further notice, progress loss (09/25/2020)
+Data recovery up until 09/10/2020, file uploaded for now (09/26/2020)
