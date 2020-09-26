@@ -1,5 +1,5 @@
-# Chrome-extension-experiment
-First attempt at creating a custom chrome extension
+// Chrome-extension-experiment
+F/rst attempt at creating a custom chrome extension
 Goal:
 This is going to be my first attempt (in life) to create a Chrome extension, thought the process would be cool to learn (and it should be).
 
@@ -28,3 +28,4 @@ Interview planned today (09/18/2020)
 No call backs from interview q.q (09/21/2020)
 after this week's chaotic events i will get back to is (09/22/2020)
 I have a cold (09/23/2020)
+Interview prep for tomorrow(09/25/2020)
