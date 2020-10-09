@@ -13,4 +13,4 @@ Project creation, planning (08/25/2020)
 Project delayed until further notice, progress loss (09/25/2020)
 Data recovery up until 09/10/2020, file uploaded for now (09/26/2020)
 Interview lined up, delayed until further notice (09/28/2020)
-Break today, can't really code with the wrong mindset today (09/29/2020
+Break today, can't really code with the wrong mindset today (09/29/2020)
